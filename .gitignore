@@ -1,0 +1,9 @@
+.next/
+node_modules/
+.env
+.env.local
+public/uploads/*.jpg
+public/uploads/*.png
+public/uploads/*.webp
+public/uploads/*.gif
+*.log
